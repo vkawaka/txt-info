@@ -4,3 +4,26 @@
  * Autor: Nathalia Kawakami
  * Versão: 1.0
  */
+
+const deleteAlbum = async() => {
+
+}
+
+const insertNewAlbum = async() => {
+
+}
+
+const updateAlbum = async() => {
+
+}
+
+const selectAlbums = async() => {
+
+}
+
+module.exports = {
+    deleteAlbum,
+    insertNewAlbum,
+    updateAlbum,
+    selectAlbums
+}

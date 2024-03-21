@@ -5,3 +5,25 @@
  * Versão: 1.0
  */
 
+const deleteMusic = async() => {
+
+}
+
+const insertNewMusic = async() => {
+
+}
+
+const updateMusic = async() => {
+
+}
+
+const selectMusics = async() => {
+    
+}
+
+module.exports = {
+    deleteMusic,
+    insertNewMusic,
+    updateMusic,
+    selectMusics
+}

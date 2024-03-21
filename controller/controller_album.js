@@ -6,3 +6,29 @@
  */
 
 const albumDAO = require('../model/DAO/album.js')
+
+//Import o arquivo config do projeto.
+const message = require('../module/config.js')
+
+const apagarAlbum = async() => {
+
+}
+
+const adicionarAlbum = async() => {
+
+}
+
+const editarAlbum = async() => {
+
+}
+
+const mostrarAlbum = async() => {
+
+}
+
+module.exports = {
+    apagarAlbum,
+    adicionarAlbum,
+    editarAlbum,
+    mostrarAlbum 
+}
